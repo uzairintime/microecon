@@ -1,0 +1,22 @@
+h1 {
+	background-color: darkgray;
+	text-align: center;
+}
+
+h3 {
+	border: 1px solic black;
+	border-style: solid;
+	border-color: black;
+}
+
+h3 {
+	text-align: left;
+	padding: 10px;
+}
+
+a {
+	color: darkgreen;
+}
+
+.sublink {
+	padding-left: 20px;
